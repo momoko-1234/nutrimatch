@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">NutriMatch 操作流程</title><desc id="desc">填問卷、管理補充品、選擇本地 AI，最後閱讀營養建議與注意事項。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#4f9b5e" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="480" rx="24" fill="#f3f7f2"/>
+<g font-family="Arial, Microsoft JhengHei, sans-serif"><text x="48" y="65" font-size="32" font-weight="700" fill="#173d2a">NutriMatch</text><text x="48" y="104" font-size="20" fill="#52645a">從生活型態到可解釋的營養建議</text>
+<g fill="white" stroke="#c8dbcd"><rect x="48" y="155" width="248" height="210" rx="16"/><rect x="332" y="155" width="248" height="210" rx="16"/><rect x="616" y="155" width="248" height="210" rx="16"/><rect x="900" y="155" width="252" height="210" rx="16"/></g>
+<g fill="#4f9b5e" font-size="18" font-weight="700"><text x="72" y="192">01 / QUESTIONNAIRE</text><text x="356" y="192">02 / SUPPLEMENTS</text><text x="640" y="192">03 / LOCAL AI</text><text x="924" y="192">04 / REPORT</text></g>
+<g fill="#173d2a" font-size="25" font-weight="700"><text x="72" y="240">填寫四步問卷</text><text x="356" y="240">加入目前補充品</text><text x="640" y="240">選擇分析模式</text><text x="924" y="240">閱讀解釋與提醒</text></g>
+<g fill="#52645a" font-size="17"><text x="72" y="286">基本資料 / 族群</text><text x="72" y="317">生活狀態 / 健康目標</text><text x="356" y="286">選填 · 可搜尋示例產品</text><text x="356" y="317">檢查覆蓋與重複補充</text><text x="640" y="286">規則分析始終可用</text><text x="640" y="317">Ollama 可選中文解讀</text><text x="924" y="286">營養優先度 / 食物來源</text><text x="924" y="317">原始警語 / AI 狀態</text></g>
+<g stroke="#4f9b5e" stroke-width="2" marker-end="url(#arrow)"><path d="M302 260h22"/><path d="M586 260h22"/><path d="M870 260h22"/></g>
+<text x="48" y="424" font-size="17" fill="#52645a">教育原型 · 分數不代表疾病機率 · AI 失敗仍保留基本報告 · 不需要 OpenAI API key</text></g></svg>

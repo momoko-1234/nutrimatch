@@ -1,0 +1,325 @@
+{
+  "profileDescription": "依照你的問卷，目前呈現「有熬夜或睡眠偏晚的情況」且飲食特徵包含 外食比例高、蔬果纖維偏少；特殊族群標記為 未勾選特殊族群，症狀與生活狀態包含 壓力偏高／焦慮。整體來看，系統會優先留意 Magnesium、Omega-3、Vitamin C。這些建議偏向日常營養支持與保養規劃，不代表疾病診斷；若你同時有慢性病或正在用藥，建議把補充品清單帶給醫師或營養師確認。",
+  "nutrientRecommendations": [
+    {
+      "nutrient": "Magnesium",
+      "whyNeeded": "作息偏晚或輪班會提高能量代謝、睡眠調節與抗壓營養素的需求；飲水量偏低時，腸胃節律與疲勞感較容易受影響；你的健康目標與此營養素的功能方向高度相關。",
+      "foodSources": [
+        "南瓜籽",
+        "杏仁",
+        "菠菜",
+        "黑巧克力",
+        "香蕉"
+      ],
+      "recommendedSupplements": [
+        "甘胺酸鎂或檸檬酸鎂補充品"
+      ],
+      "intakeTiming": "晚餐後或睡前",
+      "caution": "腎臟疾病者不建議自行補充高劑量鎂。",
+      "score": 1.0
+    },
+    {
+      "nutrient": "Omega-3",
+      "whyNeeded": "作息偏晚或輪班會提高能量代謝、睡眠調節與抗壓營養素的需求；壓力與睡眠狀態可能讓恢復與神經調節營養需求上升；外食比例高時，蔬果、好油脂與微量營養素較容易不穩定。",
+      "foodSources": [
+        "鮭魚",
+        "鯖魚",
+        "沙丁魚",
+        "亞麻仁籽",
+        "核桃"
+      ],
+      "recommendedSupplements": [
+        "DHC 魚油"
+      ],
+      "intakeTiming": "飯後補充吸收較佳",
+      "caution": "使用抗凝血藥或近期手術者請先詢問醫師。",
+      "score": 0.85
+    },
+    {
+      "nutrient": "Vitamin C",
+      "whyNeeded": "壓力與睡眠狀態可能讓恢復與神經調節營養需求上升；外食比例高時，蔬果、好油脂與微量營養素較容易不穩定。",
+      "foodSources": [
+        "芭樂",
+        "奇異果",
+        "柑橘",
+        "甜椒",
+        "花椰菜"
+      ],
+      "recommendedSupplements": [
+        "DHC 維他命C"
+      ],
+      "intakeTiming": "飯後，可分次",
+      "caution": "腎臟疾病或結石風險者請留意劑量。",
+      "score": 0.67
+    },
+    {
+      "nutrient": "Probiotics",
+      "whyNeeded": "飲水量偏低時，腸胃節律與疲勞感較容易受影響；外食比例高時，蔬果、好油脂與微量營養素較容易不穩定。",
+      "foodSources": [
+        "優格",
+        "優酪乳",
+        "泡菜",
+        "味噌",
+        "納豆"
+      ],
+      "recommendedSupplements": [
+        "DHC 益生菌"
+      ],
+      "intakeTiming": "早餐前後或睡前，依產品標示",
+      "caution": "免疫低下或重大疾病治療中者請先諮詢醫師。",
+      "score": 0.55
+    },
+    {
+      "nutrient": "B Complex",
+      "whyNeeded": "作息偏晚或輪班會提高能量代謝、睡眠調節與抗壓營養素的需求；你的健康目標與此營養素的功能方向高度相關；壓力與睡眠狀態可能讓恢復與神經調節營養需求上升。你已在個人化保健品管理中加入相關 DHC 品項，因此此營養素視為部分覆蓋，優先級已下調。",
+      "foodSources": [
+        "全穀類",
+        "雞蛋",
+        "瘦肉",
+        "豆類",
+        "深綠色蔬菜"
+      ],
+      "recommendedSupplements": [
+        "目前已由你的日常保健品部分覆蓋，先檢查飲食與重複補充"
+      ],
+      "intakeTiming": "早餐後或午餐後",
+      "caution": "避免和其他高劑量 B 群產品重複堆疊。",
+      "score": 0.4365
+    },
+    {
+      "nutrient": "Iron",
+      "whyNeeded": "你的健康目標與此營養素的功能方向高度相關。",
+      "foodSources": [
+        "紅肉",
+        "蛤蜊",
+        "豆類",
+        "菠菜",
+        "黑芝麻"
+      ],
+      "recommendedSupplements": [
+        "DHC 鐵"
+      ],
+      "intakeTiming": "飯後或搭配維他命C食物",
+      "caution": "男性、肝病、胃潰瘍或鐵質過量風險者不建議自行補充。",
+      "score": 0.43
+    },
+    {
+      "nutrient": "CoQ10",
+      "whyNeeded": "你的健康目標與此營養素的功能方向高度相關。",
+      "foodSources": [
+        "魚類",
+        "牛肉",
+        "雞肉",
+        "花生",
+        "花椰菜"
+      ],
+      "recommendedSupplements": [
+        "DHC Q10"
+      ],
+      "intakeTiming": "含油脂餐後",
+      "caution": "使用抗凝血藥或心血管藥物者請先詢問醫師。",
+      "score": 0.43
+    },
+    {
+      "nutrient": "Zinc",
+      "whyNeeded": "壓力與睡眠狀態可能讓恢復與神經調節營養需求上升。",
+      "foodSources": [
+        "牡蠣",
+        "牛肉",
+        "南瓜籽",
+        "豆類",
+        "堅果"
+      ],
+      "recommendedSupplements": [
+        "DHC 鋅"
+      ],
+      "intakeTiming": "飯後，避免空腹",
+      "caution": "避免長期高劑量鋅影響銅與鐵平衡。",
+      "score": 0.35
+    }
+  ],
+  "currentSupplementReview": [
+    {
+      "productId": "dhc-b-complex",
+      "productName": "DHC B群",
+      "comment": "此品項資料庫建議量為「每日2粒」。分析時會把它視為你日常補充品的一部分，並檢查是否與其他產品重複補到 Vitamin B1, Vitamin B2, Niacin。",
+      "caution": "孕婦、備孕或正在哺乳者請先確認劑量是否適合。"
+    }
+  ],
+  "coveredNutrients": [
+    "B Complex"
+  ],
+  "safetyNotes": [],
+  "matchedProducts": [
+    {
+      "id": "dhc-fish-oil",
+      "name": "DHC 魚油",
+      "category": "oil",
+      "nutrients": [
+        "Omega-3",
+        "EPA",
+        "DHA"
+      ],
+      "functions": [
+        "cardiovascular_health",
+        "anti_inflammation",
+        "focus"
+      ],
+      "suitableFor": [
+        "cardiovascular_health",
+        "high_stress",
+        "eating_out",
+        "focus"
+      ],
+      "avoidFor": [
+        "liver_disease",
+        "gastric_ulcer_or_reflux"
+      ],
+      "intakeTiming": "飯後補充吸收較佳",
+      "dosage": "每日4粒",
+      "caution": "正在使用抗凝血藥、手術前後或有出血風險者請先詢問醫師。",
+      "imageUrl": null,
+      "productUrl": null
+    },
+    {
+      "id": "dhc-vitamin-c",
+      "name": "DHC 維他命C",
+      "category": "vitamin",
+      "nutrients": [
+        "Vitamin C"
+      ],
+      "functions": [
+        "immunity",
+        "brightening_antioxidant",
+        "collagen_support"
+      ],
+      "suitableFor": [
+        "eating_out",
+        "high_stress",
+        "brightening_antioxidant",
+        "immunity"
+      ],
+      "avoidFor": [
+        "kidney_disease"
+      ],
+      "intakeTiming": "飯後補充較溫和，可分次補充",
+      "dosage": "每日2粒；若選持續型維他命C則每日4粒",
+      "caution": "腎臟疾病或容易結石者請先諮詢專業人員。",
+      "imageUrl": null,
+      "productUrl": null
+    },
+    {
+      "id": "dhc-probiotics",
+      "name": "DHC 益生菌",
+      "category": "gut_health",
+      "nutrients": [
+        "Probiotics"
+      ],
+      "functions": [
+        "gut_health",
+        "immunity"
+      ],
+      "suitableFor": [
+        "sensitive_gut",
+        "gut_health",
+        "immunity"
+      ],
+      "avoidFor": [
+        "autoimmune_disease"
+      ],
+      "intakeTiming": "早餐前、早餐後或睡前，依產品標示",
+      "dosage": "每日1粒",
+      "caution": "免疫低下或重大疾病治療中者請先諮詢醫師。",
+      "imageUrl": null,
+      "productUrl": null
+    },
+    {
+      "id": "dhc-iron",
+      "name": "DHC 鐵",
+      "category": "mineral",
+      "nutrients": [
+        "Iron",
+        "Vitamin B12",
+        "Folate"
+      ],
+      "functions": [
+        "energy",
+        "women_health"
+      ],
+      "suitableFor": [
+        "women_health",
+        "vegetarian",
+        "energy"
+      ],
+      "avoidFor": [
+        "liver_disease",
+        "gastric_ulcer_or_reflux"
+      ],
+      "intakeTiming": "飯後或與維他命C食物搭配",
+      "dosage": "每日2粒",
+      "caution": "男性、銀髮族、肝病或鐵質過量風險者不建議自行補充。",
+      "imageUrl": null,
+      "productUrl": null
+    },
+    {
+      "id": "dhc-coq10",
+      "name": "DHC Q10",
+      "category": "coenzyme",
+      "nutrients": [
+        "CoQ10"
+      ],
+      "functions": [
+        "energy",
+        "cardiovascular_health",
+        "antioxidant"
+      ],
+      "suitableFor": [
+        "senior",
+        "energy",
+        "cardiovascular_health"
+      ],
+      "avoidFor": [
+        "pregnant",
+        "breastfeeding"
+      ],
+      "intakeTiming": "飯後，尤其含油脂餐後",
+      "dosage": "每日1粒",
+      "caution": "使用心血管藥物或抗凝血藥者請先諮詢醫師。",
+      "imageUrl": null,
+      "productUrl": null
+    },
+    {
+      "id": "dhc-zinc",
+      "name": "DHC 鋅",
+      "category": "mineral",
+      "nutrients": [
+        "Zinc"
+      ],
+      "functions": [
+        "immunity",
+        "skin_hair",
+        "men_health"
+      ],
+      "suitableFor": [
+        "immunity",
+        "skin_hair",
+        "men_health",
+        "vegetarian"
+      ],
+      "avoidFor": [
+        "kidney_disease"
+      ],
+      "intakeTiming": "飯後，避免空腹不適",
+      "dosage": "每日1粒，午飯或晚飯後",
+      "caution": "避免和高劑量鐵、鈣同時補充；腎臟疾病者需先詢問醫師。",
+      "imageUrl": null,
+      "productUrl": null
+    }
+  ],
+  "localAI": {
+    "status": "disabled",
+    "model": null,
+    "explanation": null,
+    "message": null
+  }
+}

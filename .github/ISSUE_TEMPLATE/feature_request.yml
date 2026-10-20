@@ -1,0 +1,13 @@
+name: Feature request
+description: 建議功能與使用情境
+body:
+  - type: textarea
+    id: usecase
+    attributes:
+      label: 使用情境與希望改善的問題
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 建議方案與替代方式

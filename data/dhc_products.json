@@ -1,0 +1,528 @@
+[
+  {
+    "id": "dhc-vitamin-c",
+    "name": "DHC 維他命C",
+    "category": "vitamin",
+    "nutrients": [
+      "Vitamin C"
+    ],
+    "functions": [
+      "immunity",
+      "brightening_antioxidant",
+      "collagen_support"
+    ],
+    "suitableFor": [
+      "eating_out",
+      "high_stress",
+      "brightening_antioxidant",
+      "immunity"
+    ],
+    "avoidFor": [
+      "kidney_disease"
+    ],
+    "intakeTiming": "飯後補充較溫和，可分次補充",
+    "dosage": "每日2粒；若選持續型維他命C則每日4粒",
+    "caution": "腎臟疾病或容易結石者請先諮詢專業人員。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-b-complex",
+    "name": "DHC B群",
+    "category": "vitamin",
+    "nutrients": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Niacin",
+      "Pantothenic Acid",
+      "Vitamin B6",
+      "Folate",
+      "Vitamin B12",
+      "Biotin"
+    ],
+    "functions": [
+      "energy",
+      "focus",
+      "metabolism"
+    ],
+    "suitableFor": [
+      "late_sleep",
+      "shift_work",
+      "high_stress",
+      "energy",
+      "focus"
+    ],
+    "avoidFor": [
+      "pregnant"
+    ],
+    "intakeTiming": "早餐後或午餐後",
+    "dosage": "每日2粒",
+    "caution": "孕婦、備孕或正在哺乳者請先確認劑量是否適合。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-fish-oil",
+    "name": "DHC 魚油",
+    "category": "oil",
+    "nutrients": [
+      "Omega-3",
+      "EPA",
+      "DHA"
+    ],
+    "functions": [
+      "cardiovascular_health",
+      "anti_inflammation",
+      "focus"
+    ],
+    "suitableFor": [
+      "cardiovascular_health",
+      "high_stress",
+      "eating_out",
+      "focus"
+    ],
+    "avoidFor": [
+      "liver_disease",
+      "gastric_ulcer_or_reflux"
+    ],
+    "intakeTiming": "飯後補充吸收較佳",
+    "dosage": "每日4粒",
+    "caution": "正在使用抗凝血藥、手術前後或有出血風險者請先詢問醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-lutein",
+    "name": "DHC 葉黃素",
+    "category": "eye_health",
+    "nutrients": [
+      "Lutein",
+      "Zeaxanthin"
+    ],
+    "functions": [
+      "eye_health",
+      "antioxidant"
+    ],
+    "suitableFor": [
+      "sedentary_worker",
+      "eye_health",
+      "frequent_late_nights"
+    ],
+    "avoidFor": [],
+    "intakeTiming": "含油脂餐後補充",
+    "dosage": "每日1粒，飯後用溫水送服",
+    "caution": "若已使用眼科藥物或有眼疾，請以醫囑為準。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-iron",
+    "name": "DHC 鐵",
+    "category": "mineral",
+    "nutrients": [
+      "Iron",
+      "Vitamin B12",
+      "Folate"
+    ],
+    "functions": [
+      "energy",
+      "women_health"
+    ],
+    "suitableFor": [
+      "women_health",
+      "vegetarian",
+      "energy"
+    ],
+    "avoidFor": [
+      "liver_disease",
+      "gastric_ulcer_or_reflux"
+    ],
+    "intakeTiming": "飯後或與維他命C食物搭配",
+    "dosage": "每日2粒",
+    "caution": "男性、銀髮族、肝病或鐵質過量風險者不建議自行補充。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-calcium-magnesium",
+    "name": "DHC 鈣鎂",
+    "category": "mineral",
+    "nutrients": [
+      "Calcium",
+      "Magnesium",
+      "Vitamin D"
+    ],
+    "functions": [
+      "bone_health",
+      "sleep",
+      "muscle_relaxation"
+    ],
+    "suitableFor": [
+      "bone_health",
+      "sleep_disorder",
+      "high_stress",
+      "senior"
+    ],
+    "avoidFor": [
+      "kidney_disease"
+    ],
+    "intakeTiming": "晚餐後或睡前",
+    "dosage": "每日3粒，可分次搭配開水食用",
+    "caution": "腎臟疾病、高血鈣或正在使用相關藥物者請先諮詢醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-turmeric",
+    "name": "DHC 薑黃",
+    "category": "botanical",
+    "nutrients": [
+      "Curcumin"
+    ],
+    "functions": [
+      "liver_support",
+      "anti_inflammation",
+      "digestive_support"
+    ],
+    "suitableFor": [
+      "eating_out",
+      "high_stress"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding",
+      "gastric_ulcer_or_reflux",
+      "liver_disease"
+    ],
+    "intakeTiming": "飯後補充",
+    "dosage": "每日2粒，飯後或應酬前搭配水或溫水",
+    "caution": "孕哺、胃潰瘍、膽道或肝臟疾病者請先詢問專業人員。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-coq10",
+    "name": "DHC Q10",
+    "category": "coenzyme",
+    "nutrients": [
+      "CoQ10"
+    ],
+    "functions": [
+      "energy",
+      "cardiovascular_health",
+      "antioxidant"
+    ],
+    "suitableFor": [
+      "senior",
+      "energy",
+      "cardiovascular_health"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding"
+    ],
+    "intakeTiming": "飯後，尤其含油脂餐後",
+    "dosage": "每日1粒",
+    "caution": "使用心血管藥物或抗凝血藥者請先諮詢醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-collagen",
+    "name": "DHC 膠原蛋白",
+    "category": "beauty",
+    "nutrients": [
+      "Collagen Peptides",
+      "Vitamin B"
+    ],
+    "functions": [
+      "skin_hair",
+      "beauty_support"
+    ],
+    "suitableFor": [
+      "women_health",
+      "brightening_antioxidant"
+    ],
+    "avoidFor": [],
+    "intakeTiming": "晚間或餐後皆可",
+    "dosage": "每日6粒",
+    "caution": "對魚類、豬來源或明膠過敏者需確認來源。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-royal-jelly",
+    "name": "DHC 蜂王乳",
+    "category": "beauty",
+    "nutrients": [
+      "Royal Jelly",
+      "Amino Acids"
+    ],
+    "functions": [
+      "women_health",
+      "energy",
+      "beauty_support"
+    ],
+    "suitableFor": [
+      "women_health",
+      "energy"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding",
+      "autoimmune_disease"
+    ],
+    "intakeTiming": "早餐後",
+    "dosage": "依官方產品標示每日建議量",
+    "caution": "蜂產品過敏、氣喘或自體免疫疾病者請避免自行使用。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-probiotics",
+    "name": "DHC 益生菌",
+    "category": "gut_health",
+    "nutrients": [
+      "Probiotics"
+    ],
+    "functions": [
+      "gut_health",
+      "immunity"
+    ],
+    "suitableFor": [
+      "sensitive_gut",
+      "gut_health",
+      "immunity"
+    ],
+    "avoidFor": [
+      "autoimmune_disease"
+    ],
+    "intakeTiming": "早餐前、早餐後或睡前，依產品標示",
+    "dosage": "每日1粒",
+    "caution": "免疫低下或重大疾病治療中者請先諮詢醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-dha",
+    "name": "DHC DHA",
+    "category": "oil",
+    "nutrients": [
+      "DHA",
+      "Omega-3"
+    ],
+    "functions": [
+      "focus",
+      "eye_health",
+      "cardiovascular_health"
+    ],
+    "suitableFor": [
+      "focus",
+      "eye_health",
+      "teenager",
+      "senior"
+    ],
+    "avoidFor": [
+      "gastric_ulcer_or_reflux"
+    ],
+    "intakeTiming": "飯後補充",
+    "dosage": "每日4粒",
+    "caution": "魚類過敏、抗凝血藥使用者請先確認。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-maca",
+    "name": "DHC 瑪卡",
+    "category": "men_health",
+    "nutrients": [
+      "Maca",
+      "Zinc"
+    ],
+    "functions": [
+      "men_health",
+      "energy"
+    ],
+    "suitableFor": [
+      "men_health",
+      "energy"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding",
+      "hypertension"
+    ],
+    "intakeTiming": "早餐後或午餐後",
+    "dosage": "依官方產品標示每日建議量",
+    "caution": "高血壓、荷爾蒙相關疾病或孕哺族群請先諮詢專業人員。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-zinc",
+    "name": "DHC 鋅",
+    "category": "mineral",
+    "nutrients": [
+      "Zinc"
+    ],
+    "functions": [
+      "immunity",
+      "skin_hair",
+      "men_health"
+    ],
+    "suitableFor": [
+      "immunity",
+      "skin_hair",
+      "men_health",
+      "vegetarian"
+    ],
+    "avoidFor": [
+      "kidney_disease"
+    ],
+    "intakeTiming": "飯後，避免空腹不適",
+    "dosage": "每日1粒，午飯或晚飯後",
+    "caution": "避免和高劑量鐵、鈣同時補充；腎臟疾病者需先詢問醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-multivitamin",
+    "name": "DHC 綜合維他命",
+    "category": "multivitamin",
+    "nutrients": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "functions": [
+      "daily_foundation",
+      "energy",
+      "immunity"
+    ],
+    "suitableFor": [
+      "eating_out",
+      "irregular_meals",
+      "energy",
+      "immunity"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "kidney_disease",
+      "liver_disease"
+    ],
+    "intakeTiming": "早餐後或午餐後",
+    "dosage": "每日1粒，飯後搭配開水",
+    "caution": "避免與其他高劑量維他命重複堆疊。孕婦與慢性病患請先確認配方。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-vitamin-d",
+    "name": "DHC 維他命D",
+    "category": "vitamin",
+    "nutrients": [
+      "Vitamin D"
+    ],
+    "functions": [
+      "bone_health",
+      "immunity"
+    ],
+    "suitableFor": [
+      "sedentary_worker",
+      "frequent_late_nights",
+      "bone_health",
+      "immunity"
+    ],
+    "avoidFor": [
+      "kidney_disease"
+    ],
+    "intakeTiming": "含油脂餐後補充",
+    "dosage": "每日1粒，飯後配合開水",
+    "caution": "腎臟疾病、高血鈣或已使用高劑量維他命D者請先諮詢醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-blueberry",
+    "name": "DHC 藍莓精華",
+    "category": "eye_health",
+    "nutrients": [
+      "Anthocyanins",
+      "Lutein"
+    ],
+    "functions": [
+      "eye_health",
+      "antioxidant"
+    ],
+    "suitableFor": [
+      "sedentary_worker",
+      "eye_health"
+    ],
+    "avoidFor": [],
+    "intakeTiming": "飯後",
+    "dosage": "每日2粒",
+    "caution": "若有眼部疾病，仍應以眼科檢查與醫囑為主。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-placenta",
+    "name": "DHC 胎盤素",
+    "category": "beauty",
+    "nutrients": [
+      "Placenta Extract"
+    ],
+    "functions": [
+      "women_health",
+      "beauty_support"
+    ],
+    "suitableFor": [
+      "women_health",
+      "brightening_antioxidant"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding",
+      "autoimmune_disease"
+    ],
+    "intakeTiming": "晚間或飯後",
+    "dosage": "依官方產品標示每日建議量",
+    "caution": "孕哺、荷爾蒙相關疾病或自體免疫疾病者請先諮詢專業人員。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-gaba",
+    "name": "DHC GABA",
+    "category": "sleep_stress",
+    "nutrients": [
+      "GABA"
+    ],
+    "functions": [
+      "sleep",
+      "stress_support"
+    ],
+    "suitableFor": [
+      "sleep_disorder",
+      "high_stress",
+      "sleep"
+    ],
+    "avoidFor": [
+      "pregnant",
+      "breastfeeding"
+    ],
+    "intakeTiming": "晚餐後或睡前",
+    "dosage": "依官方產品標示；睡眠用途常建議睡前1-2小時",
+    "caution": "正在使用安眠藥、鎮靜藥或抗焦慮藥者請先諮詢醫師。",
+    "imageUrl": null
+  },
+  {
+    "id": "dhc-ornithine",
+    "name": "DHC 蜆精／鳥胺酸",
+    "category": "liver_support",
+    "nutrients": [
+      "Ornithine"
+    ],
+    "functions": [
+      "energy",
+      "liver_support"
+    ],
+    "suitableFor": [
+      "late_sleep",
+      "shift_work",
+      "energy"
+    ],
+    "avoidFor": [
+      "liver_disease",
+      "kidney_disease"
+    ],
+    "intakeTiming": "晚餐後或睡前",
+    "dosage": "依官方產品標示每日建議量",
+    "caution": "肝腎疾病者不建議自行使用護肝或胺基酸類產品。",
+    "imageUrl": null
+  }
+]

@@ -1,0 +1,19 @@
+name: Bug report
+description: 回報可重現的問題（請勿填入真實健康資料或金鑰）
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 問題與預期結果
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重現步驟與虛構範例
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 系統、Python、Node、Ollama 與模型版本

@@ -1,0 +1,15 @@
+{
+  "units": {
+    "vitamin_a": "mcg RAE",
+    "zinc": "mg",
+    "iron": "mg",
+    "magnesium": "mg",
+    "vitamin_b6": "mg",
+    "omega_3": "g",
+    "vitamin_d": "mcg"
+  },
+  "notes": [
+    "Reference values are configurable defaults for prototype analysis.",
+    "Adjust thresholds in backend/app/config.py for population-specific rules."
+  ]
+}
